@@ -1,6 +1,6 @@
 open import NonDependentTypes
 
-module Term where
+module Terms where
 
 term1-⊤ : ⊤
 term1-⊤ = tt
